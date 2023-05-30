@@ -9,7 +9,7 @@ Ele usa a API do Google para reconhecimento de fala e a biblioteca pyttsx3 para 
 1. Certifique-se de ter o Python instalado em seu sistema.
 2. Instale as dependências necessárias executando o seguinte comando:
   ```
-  pip install SpeechRecognition pyttsx3
+  pip install SpeechRecognition pyaudio pyttsx3
   ```
   
   
