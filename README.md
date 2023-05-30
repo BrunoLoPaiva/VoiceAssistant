@@ -1,8 +1,7 @@
 # Reconhecimento de Fala
 
-Este é um programa em Python que utiliza a biblioteca SpeechRecognition para reconhecer a fala do usuário e responder a comandos específicos. 
+Este é um programa em Python que utiliza a biblioteca SpeechRecognition para reconhecer a fala do usuário e responder a comandos específicos.<br> 
 Ele usa a API do Google para reconhecimento de fala e a biblioteca pyttsx3 para sintetizar a fala de resposta.
-Este projeto foi desenvolvido inicialmente durante o curso 'Criando Seu Próprio Assistente Virtual com Python e AI' da DankiCode.
 
 
 ## Instalação
